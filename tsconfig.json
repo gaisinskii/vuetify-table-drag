@@ -12,7 +12,9 @@
     "sourceMap": true,
     "baseUrl": ".",
     "types": [
-      "webpack-env"
+      "webpack-env",
+      "./src/types/vuedraggable.d.ts",
+      "./node_modules/vuetify/types",
     ],
     "paths": {
       "@/*": [
