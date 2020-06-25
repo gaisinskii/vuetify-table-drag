@@ -1,5 +1,8 @@
 # vuetify-table-drag-article
 
+### article - https://dev.to/andynoir/draggable-table-row-with-vuejs-vuetify-and-sortablejs-1o7l
+### live preview - https://andynoir.github.io/vuetify-table-drag/#/
+
 ## Project setup
 ```
 yarn install
